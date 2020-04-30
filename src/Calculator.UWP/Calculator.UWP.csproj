@@ -15,7 +15,7 @@
       <Version>4.3.1</Version>
     </PackageReference>
     <PackageReference Include="Uno.UI">
-      <Version>2.2.0-dev.333</Version>
+      <Version>2.2.0-feature.styles-compat.198</Version>
     </PackageReference>
   </ItemGroup>
   <PropertyGroup>
